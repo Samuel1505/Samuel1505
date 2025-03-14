@@ -2,6 +2,7 @@
 <h5 align="left">👋 Hi, I’m  SAMUEL OWEN <br>🌱 I’m a Frontend and Smart-Contract Developer<br>I'm currently learning Web3<br>😄 Pronouns: He/Him<br> </h5>
 
 ###
+My Tech Stack
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="42" alt="javascript logo"  />
@@ -35,9 +36,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Josetic224/Josetic224/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="right">
   <img height="" src=""  />
