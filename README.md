@@ -22,13 +22,13 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs,express,mongodb,solidity,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,js,html,css,react,nodejs,express,typescript,git)](https://skillicons.dev)
 
 ### Stats
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kemsguy7&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel1505&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kemsguy7&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel15057&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Streak Stats
 
