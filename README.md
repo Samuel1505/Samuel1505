@@ -8,7 +8,7 @@ Frontend Web & Smart Contract Developer
 I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate about Blockchain and crypto mainstream adoption/inclusion.
 
 * 🌍 I'm based in Nigeria
-* 💼 Currently available for remote jobs and startup collaborations
+* 💼 Available for freelancing jobs and collaborations
 * 📚 Learning and growing in Web3 development
 * 🤝 Open to collaboration on interesting projects
 * 📫 Reach me at: samkinola15@gmail.com
