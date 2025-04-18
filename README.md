@@ -11,7 +11,7 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 * 💼 Currently available for remote jobs and startup collaborations
 * 📚 Learning and growing in Web3 development
 * 🤝 Open to collaboration on interesting projects
-* 📫 Reach me at: mattidungafa@gmail.com
+* 📫 Reach me at: samkinola15@gmail.com
 
 ### Connect With Me
 
@@ -32,8 +32,5 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 
 ### Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kemsguy7&show_icons=true&theme=transparent)](http://www.github.com/Kemsguy7)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuel1505&show_icons=true&theme=transparent)](http://www.github.com/Samuel1505)
 
----
-
-🎂 Thanks for stopping by! Feel free to grab a slice of cake and connect!
