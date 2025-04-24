@@ -22,7 +22,7 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=solidity,typescript,js,html,css,react,nodejs,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=solidity,typescript,js,nextjs,html,css,react,nodejs,github, )](https://skillicons.dev)
 
 ### Stats
 
