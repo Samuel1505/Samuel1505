@@ -30,7 +30,5 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel1505&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-### Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuel1505&show_icons=true&theme=transparent)](http://www.github.com/Samuel1505)
 
