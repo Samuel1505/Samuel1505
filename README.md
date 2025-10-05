@@ -32,4 +32,4 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 
 ### Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kemsguy7&show_icons=true&theme=transparent)](http://www.github.com/Samuel1505)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuel1505&show_icons=true&theme=transparent)](http://www.github.com/Samuel1505)
