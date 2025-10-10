@@ -13,7 +13,7 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 * 💼 Available for freelancing jobs and collaborations
 * 📚 Learning and growing in Web3 development
 * 🤝 Open to collaboration on interesting projects
-* 📫 Reach me at: 
+* 📫 Reach me at: samkinola15@gmail.com
 
 ### Connect With Me
 
