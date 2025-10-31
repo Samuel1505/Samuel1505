@@ -34,3 +34,6 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 ### Streak Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Samuel1505&show_icons=true&theme=transparent)](http://www.github.com/Samuel1505)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Samuel1505&limit=5&theme=dark&combine_all_yearly_contributions=true)
