@@ -25,9 +25,6 @@ I'm a Dynamic developer, Problem-solver, versatile and resilient. Passionate abo
 
 [![My Skills](https://skillicons.dev/icons?i=solidity,cairo,rust,typescript,js,nextjs,html,css,react,nodejs,github,php)](https://skillicons.dev)
 
-### Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Samuel1505&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel1505&langs_count=8&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
