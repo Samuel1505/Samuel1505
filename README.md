@@ -3,7 +3,7 @@ Hello World! ![](https://user-images.githubusercontent.com/18350557/176309783-07
 ======================================================================================================================================
 
 
-Frontend Web & Smart Contract Developer
+Frontend & Smart Contract Developer
 -------------------------------------------------------------
 
 
